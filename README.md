@@ -35,7 +35,7 @@
 4. Добавьте товары:
    - Вручную: `Хлеб`, `100.50`, выберите "Общий".
    - Через CSV: загрузите файл с товарами.
-   - Пример CSV [EXAMPLE]([https://github.com/KnowerLife](https://github.com/KnowerLife/calculator/raw/refs/heads/main/example.csv))
+   - Пример CSV [EXAMPLE][https://github.com/KnowerLife](https://github.com/KnowerLife/calculator/raw/refs/heads/main/example.csv)
    - Через QR-код: отправьте фото чека.
 5. Распределите товары:
    - Для общих: автоматически назначаются все участники.
